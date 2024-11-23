@@ -3,17 +3,18 @@
   <a href="https://www.adisonjimenez.net/" target="blank">Adison Jimenez</a> |
   <a href="https://www.engsoft.app/" target="blank">Developer Software</a>
 </h4>
+<br/>
 
 ## <div align="center"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Acerca de mí</div>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="200px"></picture>
 - :school: `Estudiante` de la `[Fundación Universitaria Compensar]`.
 - :technologist: Me encanta construir soluciones para el mercado `tecnólogico`.
 - :computer: **Hobbies que disfruto:** `Viajar`, `Jugar Videojuegos`, `Programar`.
 - :student: Incursiando en `Ciencias de la Computación` e `Ingeniería de Software`.
 - :nerd_face: Me motiva constantemente `aprender y adquirir conocimientos en informática`.
 - :boom: ¡Te invito a visitar mi sitio web! [MY WEBSITE](https://www.adisonjimenez.net)
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 ## <div align="center"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Contacto</div>
 
