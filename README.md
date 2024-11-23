@@ -13,7 +13,7 @@
 - :student: Incursiando en `Ciencias de la Computación` e `Ingeniería de Software`.
 - :nerd_face: Me motiva constantemente `aprender y adquirir conocimientos en informática`.
 - :boom: ¡Te invito a visitar mi sitio web! [MY WEBSITE](https://www.adisonjimenez.net)
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 ## <div align="center"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Contacto</div>
 
