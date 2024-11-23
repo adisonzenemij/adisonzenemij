@@ -77,17 +77,9 @@
   </a>
 </p>
 
-### 👉 Software & Tools
+### 👉 Development
  
 <p align="left">
-  <a href="#">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="#">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  </a>
-  &nbsp;
   <a href="#">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   </a>
@@ -95,20 +87,44 @@
   <a href="#">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   </a>
-  &nbsp;
+</p>
+
+### 👉 Versioning
+ 
+<p align="left">
   <a href="#">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </a>
-  &nbsp;
-  <a href="#">
-    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  </a>
-  &nbsp;
+</p>
+
+### 👉 Management
+ 
+<p align="left">
   <a href="#">
     <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   </a>
-  &nbsp;
+</p>
+
+### 👉 Deployment
+ 
+<p align="left">
+  <a href="#">
+    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  </a>
+</p>
+
+### 👉 Design
+ 
+<p align="left">
   <a href="#">
     <img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  </a>
+</p>
+
+### 👉 Operating Systems
+
+<p align="left">
+  <a href="#">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </a>
 </p>
