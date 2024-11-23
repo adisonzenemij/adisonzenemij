@@ -41,23 +41,38 @@
 
 ### 👉 Frontend
 
-<p align="left"> 
-  <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<p align="left">
+  <a href="#">
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  <a href="#">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   </a>
   &nbsp;
-  <a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <a href="#">
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+</p>
+
+### 👉 Frameworks
+<p align="left">
+  <a href="https://getbootstrap.com/" target="_blank"> 
+     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   </a>
 </p>
 
 ### 👉 Backend
 
-<p align="left"> 
+<p align="left">
+  <a href="#">
+    <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.java.com/en/">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://dart.dev/">
     <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   </a>
@@ -65,14 +80,10 @@
   <a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   </a>
-  &nbsp;
-  <a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
 </p>
 
 ### 👉 Frameworks
-<p align="left"> 
+<p align="left">
   <a href="https://flutter.dev/" target="_blank"> 
      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   </a>
@@ -89,6 +100,10 @@
   </a>
   &nbsp;
   <a href="https://firebase.google.com/">
+    <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://firebase.google.com/">
     <img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   </a>
 </p>
@@ -98,6 +113,10 @@
 <p align="left">
   <a href="#">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="#">
+    <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
   </a>
   &nbsp;
   <a href="#">
@@ -117,6 +136,10 @@
  
 <p align="left">
   <a href="#">
+    <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="#">
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   </a>
 </p>
@@ -124,6 +147,10 @@
 ### 👉 Design
  
 <p align="left">
+  <a href="#">
+    <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
+  </a>
+  &nbsp;
   <a href="#">
     <img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   </a>
