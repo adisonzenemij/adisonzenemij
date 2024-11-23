@@ -87,7 +87,7 @@
   </a>
 </p>
 
-### <div align="center" width="50px">👉 Database</div>
+### <div align="center" width="50px">👉 Databases</div>
 <p align="center">
   <a href="https://www.sqlite.org/">
     <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
