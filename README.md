@@ -45,7 +45,6 @@
   <tbody>
     <tr>
       <td align="center">
-        <br>
         <a href="#">
           <img alt="HTML5" height="25" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
         </a>
@@ -61,6 +60,80 @@
       <td align="center">
         <a href="https://getbootstrap.com/" target="_blank">
           <img alt="Bootstrap" height="25" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <td align="center">👉 Backend</td>
+      <td align="center">👉 Frameworks</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://www.java.com/en/">
+          <img alt="Java" height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://dart.dev/">
+          <img alt="DART" height="25" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://python.org/">
+          <img alt="Python" height="25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img alt="Spring" height="25" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://flutter.dev/" target="_blank"> 
+           <img alt="Flutter" height="25" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="center">👉 Databases</th>
+      <th align="center">👉 Versioning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://www.sqlite.org/">
+          <img alt="SQLite" height="25" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://www.mysql.com/">
+          <img alt="MySQL" height="25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://firebase.google.com/">
+          <img alt="Postgres" height="25" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://firebase.google.com/">
+          <img alt="Firebase" height="25" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img alt="Git" height="25" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="#">
+          <img alt="GitHub" height="25" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
     </tr>
@@ -90,6 +163,7 @@
   </a>
 </p>
 -->
+<!--
 ### <div align="center" width="50px">👉 Backend</div>
 <p align="center">
   <a href="https://www.java.com/en/">
@@ -115,7 +189,8 @@
      <img alt="Flutter" height="25" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   </a>
 </p>
-
+-->
+<!--
 ### <div align="center" width="50px">👉 Databases</div>
 <p align="center">
   <a href="https://www.sqlite.org/">
@@ -135,6 +210,17 @@
   </a>
 </p>
 
+### <div align="center" width="50px">👉 Versioning</div>
+<p align="center">
+  <a href="#">
+    <img alt="Git" height="25" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="#">
+    <img alt="GitHub" height="25" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+-->
 ### <div align="center" width="50px">👉 Development</div>
 <p align="center">
   <a href="#">
@@ -151,17 +237,6 @@
   &nbsp;
   <a href="#">
     <img alt="Sonar Lint" height="25" src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white">
-  </a>
-</p>
-
-### <div align="center" width="50px">👉 Versioning</div>
-<p align="center">
-  <a href="#">
-    <img alt="Git" height="25" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="#">
-    <img alt="GitHub" height="25" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
