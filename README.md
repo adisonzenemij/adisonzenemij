@@ -35,16 +35,16 @@
 
 ## <div align="center" width="50px">:open_file_folder: Habilidades 🛠️</div>
 
-<table align="center">
+<table align="center" width="100%">
   <thead>
     <tr>
-      <td align="center" width="50%">👉 Frontend</td>
-      <td align="center" width="50%">👉 Frameworks</td>
+      <td align="center">👉 Frontend</td>
+      <td align="center">👉 Frameworks</td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" width="50%">
+      <td align="center">
         <br>
         <a href="#">
           <img alt="HTML5" height="25" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -58,7 +58,7 @@
           <img alt="CSS3" height="25" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
         </a>
       </td>
-      <td align="center" width="50%">
+      <td align="center">
         <a href="https://getbootstrap.com/" target="_blank">
           <img alt="Bootstrap" height="25" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
         </a>
