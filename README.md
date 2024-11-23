@@ -39,9 +39,8 @@
 
 ## <div align="center" width="50px">:open_file_folder: Habilidades 🛠️</div>
 
-### 👉 Frontend
-
-<p align="left">
+### <div align="center" width="50px">👉 Frontend</div>
+<p align="center">
   <a href="#">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
@@ -55,16 +54,15 @@
   </a>
 </p>
 
-### 👉 Frameworks
-<p align="left">
+### <div align="center" width="50px">👉 Frameworks</div>
+<p align="center">
   <a href="https://getbootstrap.com/" target="_blank"> 
      <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   </a>
 </p>
 
-### 👉 Backend
-
-<p align="left">
+### <div align="center" width="50px">👉 Backend</div>
+<p align="center">
   <a href="#">
     <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   </a>
@@ -82,15 +80,15 @@
   </a>
 </p>
 
-### 👉 Frameworks
-<p align="left">
+### <div align="center" width="50px">👉 Frameworks</div>
+<p align="center">
   <a href="https://flutter.dev/" target="_blank"> 
      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   </a>
 </p>
 
-### 👉 Databases
-<p align="left">
+### <div align="center" width="50px">👉 Database</div>
+<p align="center">
   <a href="https://www.sqlite.org/">
     <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   </a>
@@ -108,9 +106,8 @@
   </a>
 </p>
 
-### 👉 Development
- 
-<p align="left">
+### <div align="center" width="50px">👉 Development</div>
+<p align="center">
   <a href="#">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   </a>
@@ -128,17 +125,19 @@
   </a>
 </p>
 
-### 👉 Versioning
- 
-<p align="left">
+### <div align="center" width="50px">👉 Versioning</div>
+<p align="center">
   <a href="#">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </a>
+  &nbsp;
+  <a href="#">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
-### 👉 Deployment
- 
-<p align="left">
+### <div align="center" width="50px">👉 Deployment</div>
+<p align="center">
   <a href="#">
     <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
   </a>
@@ -148,29 +147,30 @@
   </a>
 </p>
 
-### 👉 Design
- 
-<p align="left">
+### <div align="center" width="50px">👉 Design</div>
+<p align="center">
   <a href="#">
     <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
   </a>
   &nbsp;
   <a href="#">
-    <img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="#">
+    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
   </a>
 </p>
 
-### 👉 Operating Systems
-
-<p align="left">
+### <div align="center" width="50px">👉 Operating Systems</div>
+<p align="center">
   <a href="#">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </a>
 </p>
 
-### 👉 Project Management
- 
-<p align="left">
+### <div align="center" width="50px">👉 Project Management</div>
+<p align="center">
   <a href="#">
     <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   </a>
