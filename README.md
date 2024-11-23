@@ -140,6 +140,82 @@
   </tbody>
 </table>
 
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="center">👉 Development</th>
+      <th align="center">👉 Deployment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img alt="Visual Studio Code" height="25" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+        </a>
+        &nbsp;
+        <a href="#">
+          <img alt="Eclipse" height="25" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
+        </a>
+        &nbsp;
+        <a href="#">
+          <img alt="Postman" height="25" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+        </a>
+        &nbsp;
+        <a href="#">
+          <img alt="Sonar Lint" height="25" src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img alt="Google Cloud" height="25" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+        </a>
+        &nbsp;
+        <a href="#">
+          <img alt="AWS" height="25" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="center">👉 Design</th>
+      <th align="center">👉 Operating Systems</th>
+      <th align="center">👉 Project Management</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img alt="Adobe" height="25" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
+        </a>
+        &nbsp;
+        <a href="#">
+          <img alt="Figma" height="25" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+        </a>
+        &nbsp;
+        <a href="#">
+          <img alt="Canva" height="25" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img alt="Linux" height="25" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img alt="Trello" height="25" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <!--
 ### <div align="center" width="50px">👉 Frontend</div>
 <p align="center">
@@ -221,6 +297,7 @@
   </a>
 </p>
 -->
+<!--
 ### <div align="center" width="50px">👉 Development</div>
 <p align="center">
   <a href="#">
@@ -250,7 +327,8 @@
     <img alt="AWS" height="25" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   </a>
 </p>
-
+-->
+<!--
 ### <div align="center" width="50px">👉 Design</div>
 <p align="center">
   <a href="#">
@@ -279,4 +357,4 @@
     <img alt="Trello" height="25" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   </a>
 </p>
-
+-->
