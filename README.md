@@ -122,6 +122,10 @@
   <a href="#">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   </a>
+  &nbsp;
+  <a href="#">
+    <img alt="" src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white">
+  </a>
 </p>
 
 ### 👉 Versioning
