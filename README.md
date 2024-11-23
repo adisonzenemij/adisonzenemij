@@ -35,6 +35,39 @@
 
 ## <div align="center" width="50px">:open_file_folder: Habilidades 🛠️</div>
 
+<table align="center">
+  <thead>
+    <tr>
+      <td align="center" width="50%">👉 Frontend</td>
+      <td align="center" width="50%">👉 Frameworks</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="50%">
+        <br>
+        <a href="#">
+          <img alt="HTML5" height="25" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="#">
+          <img alt="JavaScript" height="25" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+        </a>
+        &nbsp;
+        <a href="#">
+          <img alt="CSS3" height="25" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://getbootstrap.com/" target="_blank">
+          <img alt="Bootstrap" height="25" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!--
 ### <div align="center" width="50px">👉 Frontend</div>
 <p align="center">
   <a href="#">
@@ -56,7 +89,7 @@
      <img alt="Bootstrap" height="25" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   </a>
 </p>
-
+-->
 ### <div align="center" width="50px">👉 Backend</div>
 <p align="center">
   <a href="https://www.java.com/en/">
